@@ -1,7 +1,7 @@
 # Object Detection
 This is an object detection application that classifies for the 91 objects in total. The application is in kotlin and uses TensorFlow lite. 
 
-![WhatsApp Image 2021-03-25 at 00 16 23](https://user-images.githubusercontent.com/52823306/112427917-696c1580-8d60-11eb-8d2f-2c3dc249b248.jpeg)
+![WhatsApp Image 2021-03-25 at 12 00 34](https://user-images.githubusercontent.com/52823306/112431105-16e12800-8d65-11eb-96f5-78427cf715bb.jpeg)
 
 ## Technologies Used:
 1. **TensorFlow Lite** : This is used to detect objects.
