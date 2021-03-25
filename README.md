@@ -9,7 +9,7 @@ This is an object detection application that classifies for the 91 objects in to
 
 ## Demo Video
 
-Uploading WhatsApp Video 2021-03-25 at 11.26.47.mp4…
+https://user-images.githubusercontent.com/52823306/112427978-81dc3000-8d60-11eb-9e68-3f2d37b072eb.mp4
 
 As you can see in the video, the objects are detected and is bounded by a box along with the confidence values.
 
