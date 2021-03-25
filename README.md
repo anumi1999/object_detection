@@ -7,3 +7,8 @@ This is an object detection application that classifies for the 91 objects in to
 
 ## Demo Video
 
+https://user-images.githubusercontent.com/52823306/112426933-cc5cad00-8d5e-11eb-8925-1a0a506c8e3b.mp4
+
+As you can see in the video, the objects are detected and is bounded by a box along with the confidence values.
+
+
